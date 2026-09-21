@@ -1,50 +1,51 @@
-# Fullstack Java Journey
+## Week 2 - Loops and Number Logic
 
-A structured Java Full Stack development journey with hands-on practice and daily coding exercises.
-
-## Week 1 - Core Java Fundamentals
-
-During Week 1, I practiced the fundamentals of Java programming, including variables, data types, operators, user input, conditional statements, and basic menu-driven programs.
+During Week 2, I practiced loop concepts and number-based logic using `for`, `while`, nested loops, and conditional statements.
 
 ### Day 1
-- Hello Java
-- Variables and Data Types
-- Arithmetic Calculator
+- For Loop Basics
+- Sum of N Numbers
+- Multiplication Table
+- Weekly Test 2
 
 ### Day 2
-- Scanner Input
-- Type Casting
-- Swap Two Numbers
-- Area Calculator
+- While Loop Practice
+- Factorial Program
+- Reverse a Number
+- Sum of Digits
 
 ### Day 3
-- Even or Odd
-- Positive, Negative, or Zero
-- Largest of Three Numbers
-- Age Category Checker
+- Palindrome Number
+- Armstrong Number
+- Prime Number Check
+- Fibonacci Series
 
 ### Day 4
-- Grade Calculator
-- Simple Interest Calculator
-- Temperature Converter
-- Menu-Driven Arithmetic Program
+- Right Triangle Pattern
+- Inverted Triangle Pattern
+- Number Pattern
+- Alphabet Pattern
 
-## Concepts Practiced
+### Day 5
+- Prime Numbers in a Range
+- Even and Odd Count
+- Logic Revision Set
+    - Count Digits
+    - Largest Digit
+    - Sum of Even Numbers
 
-- Java class structure
-- `main()` method
-- Variables and primitive data types
-- `String`
-- `Scanner`
-- Arithmetic operators
-- Type casting
-- `if`, `else if`, and `else`
-- Logical operators
-- `switch-case`
-- User input and console output
-
-## Progress
-
-Week 1 completed with hands-on practice in Core Java fundamentals.
-
-More exercises and Java Full Stack concepts will be added as I continue the journey.
+### Concepts Practiced
+- `for` loops
+- `while` loops
+- nested loops
+- `break`
+- `continue`
+- modulus operator `%`
+- integer division
+- number reversal
+- digit extraction
+- prime number logic
+- factorial logic
+- Fibonacci series
+- pattern printing
+- counters and accumulators
