@@ -1,51 +1,47 @@
-## Week 2 - Loops and Number Logic
+## Week 3 - Methods and Arrays
 
-During Week 2, I practiced loop concepts and number-based logic using `for`, `while`, nested loops, and conditional statements.
+During Week 3, I practiced Java methods, method parameters, method overloading, arrays, searching, sorting, and reusable utility methods.
 
 ### Day 1
-- For Loop Basics
-- Sum of N Numbers
-- Multiplication Table
-- Weekly Test 2
+- Method Basics
+- Method Parameters
+- Method Overloading
+- Weekly Test 3
 
 ### Day 2
-- While Loop Practice
-- Factorial Program
-- Reverse a Number
-- Sum of Digits
+- Array Input and Output
+- Array Sum and Average
+- Maximum and Minimum in Array
+- Linear Search
 
 ### Day 3
-- Palindrome Number
-- Armstrong Number
-- Prime Number Check
-- Fibonacci Series
+- Reverse Array
+- Sort Array
+- Second Largest Element
+- Duplicate Elements
 
 ### Day 4
-- Right Triangle Pattern
-- Inverted Triangle Pattern
-- Number Pattern
-- Alphabet Pattern
+- Utility Methods Program
+- Array Menu Application
+- Method Practice Set
+- Array Practice Set
 
 ### Day 5
-- Prime Numbers in a Range
-- Even and Odd Count
-- Logic Revision Set
-    - Count Digits
-    - Largest Digit
-    - Sum of Even Numbers
+- Mini Console Tool
+- Method Name Refactoring
+- Folder Cleanup
+- Weekly README Update
 
 ### Concepts Practiced
-- `for` loops
-- `while` loops
-- nested loops
-- `break`
-- `continue`
-- modulus operator `%`
-- integer division
-- number reversal
-- digit extraction
-- prime number logic
-- factorial logic
-- Fibonacci series
-- pattern printing
-- counters and accumulators
+- Methods with and without return values
+- Method parameters and arguments
+- Method overloading
+- Arrays
+- Linear search
+- Manual sorting
+- Array reversal
+- Finding maximum and minimum values
+- Reusable utility methods
+- Code refactoring
+- Method naming conventions
+- Organizing Java packages and files
